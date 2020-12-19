@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(0, 162, 255);
+}
+
+h2 {
+    color: rgb(255, 255, 255)
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/blue-cyber-future-technology-concept-background_42077-488.jpg?size=626&ext=jpg");
+}
+
+p,h3 {
+    text-align: center;
+    color: white
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    background-color: rgb(70, 228, 167);
+    color: black
+}
+
+.grid {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.socialmedia {
+    background-color: rgb(70, 228, 167);
+}
